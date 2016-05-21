@@ -12,9 +12,14 @@ The EPedigree.jar file is the run-time implementation of the SA version. The EPC
 For more information, read the following reference material:
 
 Application Description - EPedigree 1.0.0.pdf
+
 Business & Interface Processing - Service Layer Design.pdf
+
 E-Pedigree 1.0.0 Release Notes.pdf
+
 Thomas Ishmael E-Pedigree 1.0.0 Design Document.pdf
+
 Ishmael-Ingenarian OOSE (object-oriented software engineering)Principles.png
+
 Ishmael-Ingenarian UML-Java.png
 
