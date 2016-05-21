@@ -1,5 +1,5 @@
 # ePedigree
-ePedigree (electronic pedigree) is a Model-View-Controller (MVC) application architecture based on Java Standard Edition (JSE) 7 and Java Enterprise Edition (JEE) 6. It was part of a 2013-14 graduate research project to examine the pharmaceutical industry and supply chain application architectures that might comply to the United States Drug Quality and Security Act of 2013 (DQSA) - https://www.congress.gov/bill/113th-congress/house-bill/3204. 
+ePedigree (electronic pedigree - transaction documentation) is a Model-View-Controller (MVC) application architecture based on Java Standard Edition (JSE) 7 and Java Enterprise Edition (JEE) 6. It was part of a 2013-14 graduate research project to examine the pharmaceutical industry and supply chain application architectures that might comply to the United States Drug Quality and Security Act of 2013 (DQSA) Title II: Drug Supply Chain Security - https://www.congress.gov/bill/113th-congress/house-bill/3204. 
 
 Furthermore, ePedigree is a sub-system of a larger intelligent sensory and telemetry application. ePedigree development will continue with JaDE/WaDE frameworks based on IEEE-FIPA compliant smart agent specifications and Niagara and Sendona frameworks for building automation systems [warehouses & facilities], intelligent transportation systems (ITS), and smart cities.
 
